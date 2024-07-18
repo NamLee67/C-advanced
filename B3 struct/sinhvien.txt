@@ -1,0 +1,3 @@
+ CL1B	   21146484 	 Le Van Nam 	   Nam 		 08/07/2003 	    21 	  3.20 	  Gioi
+ CL1B	   21146484 	 Le Huu Hoa 	   Nam 		 02/03/2003 	    21 	  3.10 	   Kha
+ CL1A	   21146111 	 Tran Trung Duc 	   Nam 		 01/02/2003 	    21 	  2.40 	 Trung binh
